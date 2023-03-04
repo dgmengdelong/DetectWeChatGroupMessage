@@ -10,7 +10,7 @@
     
     
 ## 安装使用说明：
-1、首先需要在Python Terminal 中安装 wxauto，使用 pip install wxauto
+1、首先需要在Python Terminal 中安装 wxauto 和 uiautomation （鼠标移动到红线地方可以使用快捷键安装）
 
 2、之后需要登录微信，不能将界面隐藏到任务栏中最小化
 
